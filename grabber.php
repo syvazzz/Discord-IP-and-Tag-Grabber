@@ -2,9 +2,9 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
-$client_secret = ""; //CLIENT SECRET HERE
-$redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
+$client_id     = ""; 1344669362249928785
+$client_secret = ""; sZrmWOZLKPXl8WGnIlSRBmym9t8L2zZn
+$redirect      = ""; https://www.roblox.com/fr/badges/2124694776/Player
 
 function get_ip_address()
 {
